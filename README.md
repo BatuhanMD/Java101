@@ -1,5 +1,5 @@
 # Java101
 
-Java101'de istenilen ödevler ve pratikler
+Java101'de istenilen pratikler ve projeler
 
 www.patika.dev
